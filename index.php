@@ -413,7 +413,7 @@
                             <div class='product_inner'>
                                 <img src='img/Electronics-Icon1.png'  class="img-responsive" >
                                 <h2>اكترونيك</h2>
-                                <p>عل لديك مشروع الكترونيك ولم تستطيع تنفيذه الان يمكنك ذلك ...
+                                <p>عل لديك مشروع الكترونيك في ذهنك الان يمكنك تطبيقه  ...
                                 </p>
                                 <a>اقرأ اكثر ...</a>
                             </div>
