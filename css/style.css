@@ -1767,27 +1767,27 @@ p {
 
 .col-xs-5ths {
   width: 20%;
-  float: left;
+  float: right;
 }
 
 @media (min-width: 767px) {
   .col-sm-5ths {
     width: 20%;
-    float: left;
+    float: right;
   }
 }
 
 @media (min-width: 992px) {
   .col-md-5ths {
     width: 20%;
-    float: left;
+    float: right;
   }
 }
 
 @media (min-width: 1200px) {
   .col-lg-5ths {
     width: 20%;
-    float: left;
+    float: right;
   }
 }
 

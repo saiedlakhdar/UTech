@@ -448,30 +448,11 @@
             </div>
 
             <div class="row">
-
-                <div class="col-sm-5ths">
-                    <div class="process-item last">
-                        <div class="process-wrap text-center">
-                            <i class="icon icon-Web"></i>
-                            <h3 style="direction: rtl;" >5. نتيجة</h3>
-                        </div>
-                    </div>
-                </div> <!-- end step -->
-
                 <div class="col-sm-5ths">
                     <div class="process-item">
                         <div class="process-wrap text-center">
-                            <i class="icon icon-Settings"></i>
-                            <h3 style="direction: rtl;" >4. تطوير</h3>
-                        </div>
-                    </div>
-                </div> <!-- end step -->
-
-                <div class="col-sm-5ths">
-                    <div class="process-item">
-                        <div class="process-wrap text-center">
-                            <i class="icon icon-Edit"></i>
-                            <h3 style="direction: rtl;" >3. تصميم</h3>
+                            <i class="icon icon-ClipboardText"></i>
+                            <h3 style="direction: rtl;" >1. تخطيط</h3>
                         </div>
                     </div>
                 </div> <!-- end step -->
@@ -488,11 +469,35 @@
                 <div class="col-sm-5ths">
                     <div class="process-item">
                         <div class="process-wrap text-center">
-                            <i class="icon icon-ClipboardText"></i>
-                            <h3 style="direction: rtl;" >1. تخطيط</h3>
+                            <i class="icon icon-Edit"></i>
+                            <h3 style="direction: rtl;" >3. تصميم</h3>
                         </div>
                     </div>
                 </div> <!-- end step -->
+
+                <div class="col-sm-5ths">
+                    <div class="process-item">
+                        <div class="process-wrap text-center">
+                            <i class="icon icon-Settings"></i>
+                            <h3 style="direction: rtl;" >4. تطوير</h3>
+                        </div>
+                    </div>
+                </div> <!-- end step -->
+
+                <div class="col-sm-5ths">
+                    <div class="process-item last">
+                        <div class="process-wrap text-center">
+                            <i class="icon icon-Web"></i>
+                            <h3 style="direction: rtl;" >5. نتيجة</h3>
+                        </div>
+                    </div>
+                </div> <!-- end step -->
+
+
+
+
+
+
 
 
 
